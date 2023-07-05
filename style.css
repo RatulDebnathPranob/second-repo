@@ -1,0 +1,49 @@
+*{
+    margin: 10px;
+}
+.password{
+    margin-left: 48px;
+}
+.remember{
+    margin-left: 118px;
+    
+}
+
+.login{
+    margin-left: 139px;
+    width: 170px;
+    height: 29px;
+    border-radius: 7px;
+    background-color: #1877f2;
+    color: white;
+    font-weight: 800;
+}
+a{  
+    margin-left: 170px;
+    text-decoration: none;
+}
+.new-account{
+    margin-top: 20px;
+    margin-left: 150px;
+    background-color: #30b30d;
+    color: white;
+    
+}
+div{
+    border: 1px solid red;
+    border-radius: 20px;
+    height: 300px;
+    width: 450px;
+    margin: auto;
+    box-shadow: 10px 20px 40px red;
+    background-image: calc("bC:\Projects\second-repo\bg.jpg");
+    background-image: linear-gradient("");
+    
+}
+section{
+
+}
+.imge{
+    width: 200px;
+    height: 200px;
+}
